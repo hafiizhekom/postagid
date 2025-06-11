@@ -1,0 +1,9 @@
+application/third_party/google-api/vendor/
+
+data/*
+images/*
+text/*
+
+!data/
+!images/
+!text/
